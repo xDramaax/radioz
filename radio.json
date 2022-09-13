@@ -15,7 +15,7 @@
       "http://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
       "Générations FM",
       "Rap Hip-Hop"
-    ]
+    ],
    ],
    
    
@@ -40,7 +40,7 @@
          "http://theqradio.servemp3.com:8000/QRadio.m3u&t",
          "The Q Radio",
          "null"
-      ]
+      ],
    ],
    
    "ROCK":[
@@ -64,7 +64,7 @@
          "http://theqradio.servemp3.com:8000/QRadio.m3u&t",
          "The Q Radio",
          "null"
-      ]
+      ],
    ],
    
    
@@ -89,7 +89,7 @@
          "http://stream.zeno.fm/b1swrcx7cm0uv",
          "Best Radio",
          "null"
-      ]
+      ],
    ],
    
       "PSYCHO":[
@@ -107,6 +107,6 @@
          "http://www.partyviberadio.com:8010/listen.pls",
          "PARTY VIBE",
          "Pop"
-      ]
+      ],
    ],
 }
