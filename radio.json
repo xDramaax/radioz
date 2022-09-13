@@ -1,0 +1,58 @@
+{
+   "Afghanistan":[
+      [
+         "http://rfe-channel-17.akacast.akamaistream.net/7/367/229667/v1/ibb.akacast.akamaistream.net/rfe_channel_17.mp3",
+         "Radio Free Afghanistan-Radio Azadi",
+         "News-Talk"
+      ],
+      [
+         "http://streams.radio.co/sa3345aaa8/listen",
+         "Ariana FM",
+         "Variety Pop"
+      ]
+   ],
+   "Alaska (USA)":[
+      [
+         "http://in.icy2.abacast.com/alphacorporate-kmxsfmmp3-im",
+         "Mix 103.1",
+         "null"
+      ],
+      [
+         "http://in.icy2.abacast.com/alphacorporate-keagfmmp3-im",
+         "KEAG",
+         "Classic-Hits"
+      ],
+      [
+         "http://stream.kska.org:8290/xstream",
+         "KSKA FM",
+         "Talk Public-Radio"
+      ],
+      [
+         "http://ic2.nwrnetwork.com/kafc-fm",
+         "93.7 KAFC",
+         "null"
+      ]
+   ],
+   "Albania":[
+      [
+         "http://79.106.48.2:8000/radiotirana1",
+         "Radio Tirana 1",
+         "Public-Radio"
+      ],
+      [
+         "http://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream",
+         "Club FM",
+         "Dance"
+      ],
+      [
+         "http://79.106.48.2:8000/radiotirana2",
+         "Radio Tirana 2",
+         "Pop"
+      ],
+      [
+         "http://stream.zeno.fm/b1swrcx7cm0uv",
+         "Best Radio",
+         "null"
+      ]
+   ]
+}
