@@ -1,4 +1,29 @@
  {
+  
+  "RAP":[
+  [
+      "http://185.52.127.132/fr/30001/mp3_128.mp3",
+      "NRJ",
+      "Hits"
+    ],
+      
+    [
+      "http://icecast.skyrock.net/s/natio_mp3_128k",
+      "Skyrock FM",
+      "Rap Hip-Hop"
+    ],
+    [
+      "http://streaming.radio.funradio.fr/fun-1-44-128",
+      "Fun Radio",
+      "Dance DJ"
+    ],
+      [
+         "http://94.130.242.5:8016/listen.pls",
+         "PARTY VIBE RAP",
+         "null"
+      ]
+   ],
+  
 "House":[
     [
       "http://204.141.167.19:9780/listen.pls",
