@@ -1,47 +1,83 @@
 {
-   "Afghanistan":[
+   "RAP":[
       [
-         "http://rfe-channel-17.akacast.akamaistream.net/7/367/229667/v1/ibb.akacast.akamaistream.net/rfe_channel_17.mp3",
-         "Radio Free Afghanistan-Radio Azadi",
-         "News-Talk"
-      ],
-      [
-         "http://streams.radio.co/sa3345aaa8/listen",
-         "Ariana FM",
-         "Variety Pop"
-      ]
+      "http://icecast.skyrock.net/s/natio_mp3_128k",
+      "Skyrock FM",
+      "Rap Hip-Hop"
+    ],
+    [
+      "http://94.130.242.5:8016/listen.pls",
+      "PARTY VIBE RAP",
+      "Rap Hip-Hop"
+    ],
+      
+    [
+      "http://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
+      "Générations FM",
+      "Rap Hip-Hop"
+    ]
    ],
-   "Alaska (USA)":[
+   
+   
+   "House":[
+    [
+      "http://204.141.167.19:9780/listen.pls",
+      "Sidestreet Radio",
+      "Dance"
+    ],
+      
       [
-         "http://in.icy2.abacast.com/alphacorporate-kmxsfmmp3-im",
-         "Mix 103.1",
-         "null"
-      ],
-      [
-         "http://in.icy2.abacast.com/alphacorporate-keagfmmp3-im",
-         "KEAG",
+         "http://www.partyviberadio.com:8040/listen.pls",
+         "PARTY VIBE ELECTRO",
          "Classic-Hits"
       ],
       [
-         "http://stream.kska.org:8290/xstream",
+         "http://109.74.206.14:8120/listen.pls",
          "KSKA FM",
          "Talk Public-Radio"
       ],
       [
-         "http://ic2.nwrnetwork.com/kafc-fm",
-         "93.7 KAFC",
+         "http://theqradio.servemp3.com:8000/QRadio.m3u&t",
+         "The Q Radio",
          "null"
       ]
    ],
-   "Albania":[
+   
+   "ROCK":[
+    [
+      "http://www.partyviberadio.com:8032/listen.pls",
+      "PARTY VIBE RADIO",
+      "Dance"
+    ],
+      
       [
-         "http://79.106.48.2:8000/radiotirana1",
-         "Radio Tirana 1",
+        "http://s2.stationplaylist.com:9460/guerrilla.m3",
+        "test",
+        "Classic-Hits"
+      ],
+      [
+         "http://109.74.206.14:8120/listen.pls",
+         "KSKA FM",
+         "Talk Public-Radio"
+      ],
+      [
+         "http://theqradio.servemp3.com:8000/QRadio.m3u&t",
+         "The Q Radio",
+         "null"
+      ]
+   ],
+   
+   
+   
+   "Drum and Bass":[
+      [
+         "http://www.partyviberadio.com:8004/listen.pls",
+         "PARTY VIBE RADIO",
          "Public-Radio"
       ],
       [
-         "http://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream",
-         "Club FM",
+         "http://193.0.98.66:8005/listen.pls",
+         "Radio Kampus",
          "Dance"
       ],
       [
@@ -55,4 +91,22 @@
          "null"
       ]
    ]
+   
+      "PSYCHO":[
+      [
+         "http://www.partyviberadio.com:8040/listen.pls",
+         "PARTY VIBE RADIO",
+         "Public-Radio"
+      ],
+      [
+         "http://www.partyviberadio.com:8046/listen.pls",
+         "PARTY VIBE RADIO",
+         "Dance"
+      ],
+      [
+         "http://www.partyviberadio.com:8010/listen.pls",
+         "PARTY VIBE",
+         "Pop"
+      ]
+   ] 
 }
